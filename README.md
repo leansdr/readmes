@@ -1,6 +1,7 @@
 # READMEs Personalizados
+
 Repositórios com templates/modelos de READMEs de perfil personalizados.<br>
-Editem com os dadods e infomações sobre você.<br>
+Editem com os dados e infomações sobre você.<br>
 <b>Deixe sua estrela no repositório.</b><br>
 Matenha os créditos da última linha do README.
 
